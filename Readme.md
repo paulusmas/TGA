@@ -1,0 +1,1 @@
+TGA SDK is a free and small library to read TGA images.
